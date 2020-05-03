@@ -1,0 +1,7 @@
+server:
+  port: 8081
+  tomcat:
+    accept-count: 1000
+    max-threads: 100
+    min-spare-threads: 100
+
